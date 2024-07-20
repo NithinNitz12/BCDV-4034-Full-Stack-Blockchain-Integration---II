@@ -4,3 +4,8 @@ This is a JMeter task.
     2.Update the test to include parametrized post request that takes inputs from JMeter. Ex: username and password to login. 
     3.Add assertions to both tests above 
     4.Add a graph to demonstrate the throughput of both the requests above. 
+
+![Screenshot](Screenshots/1.png) 
+![Screenshot](Screenshots/2.png) 
+![Screenshot](Screenshots/3.png) 
+![Screenshot](Screenshots/4.png)
