@@ -9,4 +9,4 @@ RUN apt-get update && \
 
 # Verify Node.js and npm installation
 RUN node -v
-RUN npm -v
+CMD ["node", "-v"]
