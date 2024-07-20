@@ -7,3 +7,8 @@ This is a Docker containers task.
     5.List the docker volume that was created for the container. 
     6.Exec into the container and create a file in the volume. 
     7.Show the file persists in the volume even after the container is pulled down. Take screenshots to demonstrate the existence of the file.
+
+![Screenshots](./Screenshots/1.png)
+![Screenshots](./Screenshots/2.png)
+![Screenshots](./Screenshots/3.png)
+![Screenshots](./Screenshots/4.png)
